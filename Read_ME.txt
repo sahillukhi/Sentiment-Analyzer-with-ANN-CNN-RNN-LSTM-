@@ -1,0 +1,4 @@
+- Achieved 86.13% accuracy in sentiment analysis on IMDb movie reviews using LSTM.
+- Implemented diverse deep learning models (CNN, LSTM, Simple Neural Networks) for sentiment classification.
+- Employed techniques like tokenization, word embeddings, and VADER Sentiment Analyzer to improve model performance.
+- Enhanced interpretability of results through comprehensive integration of multiple techniques.
